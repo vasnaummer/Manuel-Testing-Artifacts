@@ -54,7 +54,7 @@ This repository contains comprehensive manual testing documentation for three di
 ### Project 2: ParaBank Banking Application Testing
 
 **Application:** ParaBank  
-**URL:** https://parabank.parasoft.com/parabank/index.htm  
+**URL:** https://parabank.parasoft.com/parabank/index.html  
 
 **Documentation:**
 - **Test Cases:** `ParaBank-Test-Cases.xlsx` (23 test cases)
