@@ -249,6 +249,8 @@ Created as part of software testing portfolio development.
 
 **Date:** July 2025  
 **Contact:** github.com/vasnaummer
+**Email:** vasnashiyas@gmail.com
+
 
 ---
 
