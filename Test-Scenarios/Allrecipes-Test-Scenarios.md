@@ -3,8 +3,8 @@
 ## Application Under Test
 **Website:** Allrecipes.com  
 **Testing Type:** Functional Testing  
-**Tested By:** [Your Name]  
-**Date:** November 2025
+**Tested By:** Vasna Ummer
+**Date:** February 2025
 
 ---
 
